@@ -1,1 +1,1 @@
-This project is representing a coffee sales analysis through various parameters and maximum sales of different product types in various cities through filled map. The sum of sales vs sum of profit represented through clustered column chart
+This project is representing a coffee chain sales analysis in US in various parameters and maximum sales of different product types in various cities through filled map. The sum of sales vs sum of profit represented through clustered column chart.
